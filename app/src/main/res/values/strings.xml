@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuckIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="blank_fragment">Blank fragment</string>
+</resources>
